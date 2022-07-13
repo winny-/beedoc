@@ -11,7 +11,7 @@ All the code samples in this section are based on this example unless otherwise 
 
 In v2.x, there is a big big change:
 
-We think ORM instance should stateless, so it's thread safe.
+We think ORM instance should be stateless, so it's thread safe.
 
 ##### models.go:
 
